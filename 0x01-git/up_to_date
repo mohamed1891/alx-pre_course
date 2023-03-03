@@ -1,5 +1,1 @@
-echo  > 0x01-git/up_to_date
-git add
-git commit “How to be up to date in git”
-git push origin main
-
+git up_to_date
